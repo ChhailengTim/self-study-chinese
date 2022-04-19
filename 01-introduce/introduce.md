@@ -1,1 +1,1 @@
-Learning Chinese is very easy if you understand all the "Pin Yin". So this video is talking about how to learning Chinese very well.
+Learning Chinese is very easy if you understand all the "Pin Yin". So next folder is talking about how to learning Chinese very well. follow step by step from beginer to advance.
