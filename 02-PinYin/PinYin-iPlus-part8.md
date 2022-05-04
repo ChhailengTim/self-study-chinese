@@ -1,7 +1,6 @@
-+ស្រះផ្សំ
++ស្រះផ្សំ\
 
-
-i + a = ia\ 
+i + a = ia\
 i + e = ie\
 i + ao = iao\
 i + ou = iu\
